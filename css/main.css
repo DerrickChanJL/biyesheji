@@ -1,0 +1,34 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#top{
+	height: 200px;
+	background-color: #ccc;
+}
+
+.left{
+	margin: 0,auto;
+	background-color:chartreuse;
+	width: 29%;
+	height: 800px;
+	display: inline-block;
+}
+
+.right{
+	margin: 0,auto;
+	background-color:coral;
+	width: 70%;
+	height: 800px;
+	display: inline-block;
+}
+
+.btn{
+	padding-left: 10px;
+	padding-right: 10px;
+	border: dashed;
+}
+#choose_ul{
+	margin-top: 10px;
+}
